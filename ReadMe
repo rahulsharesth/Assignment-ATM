@@ -1,0 +1,4 @@
+Read me..
+
+1. Please refer uml/class diagram.jpg  for assumptions and notes. You may also use class diagram.uxf if you have umlet installed.
+2. To test the application, please run test suit class from src/test/AllTests.java
