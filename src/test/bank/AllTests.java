@@ -13,8 +13,7 @@ import test.bank.handler.BankingHandlerTest;
 		BankingHandlerTest.class })
 public class AllTests {
 	
-	
-	
+	System.out.println();
 	
 	
 
