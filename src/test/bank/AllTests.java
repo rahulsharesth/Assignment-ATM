@@ -12,5 +12,7 @@ import test.bank.handler.BankingHandlerTest;
 @SuiteClasses({ ATMDispenserTest.class, AuthHandlerTest.class,
 		BankingHandlerTest.class })
 public class AllTests {
+	
+	
 
 }
