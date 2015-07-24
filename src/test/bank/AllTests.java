@@ -14,5 +14,7 @@ import test.bank.handler.BankingHandlerTest;
 public class AllTests {
 
 	
-	System.out.println("  ss");
+	System.out.println("pull sssss");
+	System.out.println("pull sssss");
+	System.out.println("pull sssss");
 }
