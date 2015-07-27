@@ -14,5 +14,5 @@ import test.bank.handler.BankingHandlerTest;
 public class AllTests {
 
 	
-	System.out.println("sdsdssss");
+	System.out.println("sdsdssss121212");
 }
