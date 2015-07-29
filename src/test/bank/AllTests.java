@@ -20,4 +20,7 @@ public class AllTests {
 
 	System.out.println(" testing  sdssdsdsd");
 	System.out.println(" testing  sdssdsdsd");
+	
+	System.out.println(" testing  sdssdsdsd");
+	System.out.println(" testing  sdssdsdsd");
 }
