@@ -15,6 +15,6 @@ public class AllTests {
 
 	
 	System.out.println("pull sssss");
-	System.out.println("pull sssss");
+	System.out.println("pull ssfffsss");
 	System.out.println("pull sssss");
 }
